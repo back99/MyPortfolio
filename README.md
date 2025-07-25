@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Seung Bum Jung, a Backend Developer
+# Hi, I'm Seung Bum Jung, a Backend Developer
 
 ## Who Am I?
 
@@ -9,7 +9,7 @@ I value analyzing problems structurally and finding sustainable, long-term solut
 
 ---
 
-## 💡 Tech Stack
+## Tech Stack
 
 **Languages**  
 Kotlin, Java, TypeScript, SQL
