@@ -12,8 +12,7 @@ At SLU, I’m expanding my skills in advanced topics like cloud-native systems, 
 
 I believe in writing clean, maintainable code, building systems that scale, and collaborating with people who care about clean systems and great products.
 
----
-## 🔧 Experience
+## Experience
 
 ### ✅ Distributed Transcoding [📄 Read More](Distributed_transcoding)
 - Designed a scalable video transcoding system to replace Hybrik, reducing costs by 50% and improving throughput by 30%.
