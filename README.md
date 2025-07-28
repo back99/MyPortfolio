@@ -15,13 +15,13 @@ I believe in writing clean, maintainable code, building systems that scale, and 
 ---
 ## 🔧 Experience
 
-### ✅ Distributed Transcoding [📄 Read More](Distributed_transcoding/README.md)
+### ✅ Distributed Transcoding [📄 Read More](Distributed_transcoding)
 - Designed a scalable video transcoding system to replace Hybrik, reducing costs by 50% and improving throughput by 30%.
 - Deployed parallel transcoding pods on AWS EKS based on GOP-aware segmentation.
 - Used Redis for job queuing and failure recovery; modularized packaging and media services for maintainability.  
   **Stack:** Kotlin, Spring Boot, AWS EKS, Redis, Docker, FFmpeg
 
-### ✅ Watermark Session Token Optimization [📄 Read More](Watermark_session_token_ver2/README.md)
+### ✅ Watermark Session Token Optimization [📄 Read More](Watermark_session_token_ver2)
 - Rebuilt token generation with Redis and AWS Lambda for low-latency issuance (↓30%).
 - Implemented a globally unique token strategy across Seoul, Oregon, and Frankfurt.
 - Integrated event-based regeneration via SNS and CloudWatch, enabling 5M+ token support.  
